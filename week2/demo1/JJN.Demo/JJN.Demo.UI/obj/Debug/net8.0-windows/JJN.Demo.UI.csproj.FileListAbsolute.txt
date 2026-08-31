@@ -1,0 +1,17 @@
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\bin\Debug\net8.0-windows\JJN.Demo.UI.exe
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\bin\Debug\net8.0-windows\JJN.Demo.UI.deps.json
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\bin\Debug\net8.0-windows\JJN.Demo.UI.runtimeconfig.json
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\bin\Debug\net8.0-windows\JJN.Demo.UI.dll
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\bin\Debug\net8.0-windows\JJN.Demo.UI.pdb
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.frmWinMain.resources
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.csproj.GenerateResource.cache
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.AssemblyInfoInputs.cache
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.AssemblyInfo.cs
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.csproj.CoreCompileInputs.cache
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.sourcelink.json
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.dll
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\refint\JJN.Demo.UI.dll
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.pdb
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\JJN.Demo.UI.genruntimeconfig.cache
+C:\Users\kayleigh\Documents\college\intro_cs_fall26\repos\joshua-nett\fvtccsintro\week2\demo1\JJN.Demo\JJN.Demo.UI\obj\Debug\net8.0-windows\ref\JJN.Demo.UI.dll
