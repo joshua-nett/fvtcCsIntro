@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JJN.Demo.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94c8b3bacc98255c03112acd207d6b6b78821361")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b97c955472a84ea1da7d55aea42dc927a179b341")]
 [assembly: System.Reflection.AssemblyProductAttribute("JJN.Demo.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JJN.Demo.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

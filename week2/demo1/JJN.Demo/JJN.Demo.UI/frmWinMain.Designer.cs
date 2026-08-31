@@ -44,7 +44,7 @@
             btnCat.Location = new Point(6, 102);
             btnCat.Name = "btnCat";
             btnCat.Size = new Size(220, 70);
-            btnCat.TabIndex = 0;
+            btnCat.TabIndex = 2;
             btnCat.Text = "Cat";
             btnCat.UseVisualStyleBackColor = true;
             btnCat.Click += btnCat_Click;
@@ -52,16 +52,17 @@
             // gupPet
             // 
             gupPet.BackColor = Color.Transparent;
-            gupPet.Controls.Add(btnClear);
             gupPet.Controls.Add(btnDog);
             gupPet.Controls.Add(btnCat);
             gupPet.Controls.Add(btnPlant);
+            gupPet.Controls.Add(btnClear);
+            gupPet.Font = new Font("Papyrus", 7.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
             gupPet.Location = new Point(12, 12);
             gupPet.Name = "gupPet";
             gupPet.Size = new Size(233, 339);
-            gupPet.TabIndex = 1;
+            gupPet.TabIndex = 0;
             gupPet.TabStop = false;
-            gupPet.Text = "Pets";
+            gupPet.Text = "AWESOME PETS!";
             // 
             // btnClear
             // 
@@ -80,18 +81,18 @@
             btnDog.Location = new Point(6, 26);
             btnDog.Name = "btnDog";
             btnDog.Size = new Size(220, 70);
-            btnDog.TabIndex = 3;
+            btnDog.TabIndex = 1;
             btnDog.Text = "Dog";
             btnDog.UseVisualStyleBackColor = true;
             btnDog.Click += btnDog_Click;
             // 
             // btnPlant
             // 
-            btnPlant.Font = new Font("MS Mincho", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            btnPlant.Font = new Font("Comic Sans MS", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             btnPlant.Location = new Point(6, 178);
             btnPlant.Name = "btnPlant";
             btnPlant.Size = new Size(220, 70);
-            btnPlant.TabIndex = 2;
+            btnPlant.TabIndex = 3;
             btnPlant.Text = "Plant";
             btnPlant.UseVisualStyleBackColor = true;
             btnPlant.Click += btnPlant_Click;
@@ -104,7 +105,7 @@
             lblPetNoise.Location = new Point(290, 38);
             lblPetNoise.Name = "lblPetNoise";
             lblPetNoise.Size = new Size(212, 80);
-            lblPetNoise.TabIndex = 2;
+            lblPetNoise.TabIndex = 0;
             lblPetNoise.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // pnlBtnDivider
@@ -113,7 +114,7 @@
             pnlBtnDivider.Location = new Point(12, 266);
             pnlBtnDivider.Name = "pnlBtnDivider";
             pnlBtnDivider.Size = new Size(233, 1);
-            pnlBtnDivider.TabIndex = 3;
+            pnlBtnDivider.TabIndex = 0;
             // 
             // frmWinMain
             // 
