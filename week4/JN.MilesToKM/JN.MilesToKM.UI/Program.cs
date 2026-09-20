@@ -12,6 +12,7 @@ namespace JN.MilesToKM.UI
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
 
+            // Disable dpi scaling
             Application.SetHighDpiMode(HighDpiMode.DpiUnaware);
 
             Application.Run(new frmWinMain());
